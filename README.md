@@ -4,9 +4,13 @@ The Lightning Experience Reports & Dashboards Superbadge is a hands-on, project-
 
 ### Skills Demonstrated:
 Report Types: Mastery of Salesforce report types, including the creation and customization of new report types to meet specific business needs.
+
 Advanced Filters: Use of advanced filtering techniques to refine data, including cross-filters, bucket fields, and row-level formulas.
+
 Custom Summary Formulas: Application of custom summary formulas to generate complex calculations and insights directly within reports.
+
 Conditional Formatting: Utilization of conditional formatting to highlight critical data points and trends, enhancing report readability and user engagement.
+
 Joined Reports: Creation of joined reports to combine and compare data from multiple report types, providing a comprehensive view of business metrics.
 Dashboard Components: Design and implementation of dynamic dashboards, incorporating various components such as charts, gauges, tables, and metrics to visualize data effectively.
 Dashboard Filters: Implementation of global filters on dashboards to enable users to interactively explore data by different criteria.
